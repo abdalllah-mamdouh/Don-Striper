@@ -9,9 +9,9 @@ Stripe Credit Card Checker.
  | |_| | (_) | | | |_____|__) | |_| |  | | |_) |  __/ |   
  |____/ \___/|_| |_|    |____/ \__|_|  |_| .__/ \___|_|   
                                          |_|              
-@Facebook: fb/SirBugs
-@Telegram: SirBugs
-@ICQ: SirBugs
+ @Facebook: fb/SirBugs
+      @Telegram: SirBugs
+            @ICQ: SirBugs
 ```
 
 ```bash
