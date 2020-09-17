@@ -22,6 +22,8 @@ $ pip install colorama
 $ python Stripe.py
 ```
 
+![](./STR.png)
+
 # How to use
 - Requirements
   - Fast internet connection
