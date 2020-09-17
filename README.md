@@ -19,7 +19,7 @@ $ pip install requests
 $ pip install colorama
 ```
 ```bash
-$ python Insta.py
+$ python Stripe.py
 ```
 
 # How to use
