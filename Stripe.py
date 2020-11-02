@@ -1,4 +1,4 @@
-# Test
+load("@bazel_tools//tools/build_defs/repo:http.bzl", "http_archive")
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #Coded By SirBugs
